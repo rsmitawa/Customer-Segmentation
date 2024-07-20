@@ -27,13 +27,8 @@ This project segments bank customers based on their spending patterns and intera
 - **Python** :snake: - Using Python for data manipulation, model building, and automation.
 - **Statistics** :chart_with_downwards_trend: - Applying statistical methods to analyze credit risk.
 - **Risk Management** :shield: - Assessing and mitigating financial risks.
-- **Communication** :speech_balloon: - Effectively communicating findings to stakeholders.
-- **Problem Solving** :bulb: - Tackling complex problems with innovative solutions.
 - **Financial Modeling** :moneybag: - Developing financial models to predict creditworthiness.
 - **Reporting** :memo: - Compiling detailed reports on credit analysis and predictions.
-- **Collaboration** :handshake: - Working collaboratively with team members.
-- **Time Management** :hourglass_flowing_sand: - Efficiently managing time to meet project deadlines.
-- **Attention to Detail** :mag: - Ensuring accuracy and precision in all aspects of the project.
 
 
 ## Project Objective
