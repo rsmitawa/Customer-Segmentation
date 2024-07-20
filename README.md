@@ -6,15 +6,34 @@
 This project segments bank customers based on their spending patterns and interaction history. Using machine learning techniques, specifically Hierarchical Clustering Analysis (HCA) and K-Means Clustering, we identify distinct customer segments to help the bank better understand and serve its customer base.
 
 ## Table of Contents
-1. [Project Objective](#project-objective)
-2. [Dataset](#dataset)
-3. [Methodology](#methodology)
-4. [Requirements](#requirements)
-5. [Setup and Installation](#setup-and-installation)
-6. [Usage](#usage)
-7. [Results and Insights](#results-and-insights)
-8. [Recommendations](#recommendations)
-9. [Contributing](#contributing)
+1. [Skills Utilized](#skills-utilized)
+2. [Project Objective](#project-objective)
+3. [Dataset](#dataset)
+4. [Methodology](#methodology)
+5. [Requirements](#requirements)
+6. [Setup and Installation](#setup-and-installation)
+7. [Usage](#usage)
+8. [Results and Insights](#results-and-insights)
+9. [Recommendations](#recommendations)
+10. [Contributing](#contributing)
+
+## Skills Utilized :bulb:
+
+- **Data Analysis** :bar_chart: - Utilizing advanced data analysis techniques to interpret credit data.
+- **Machine Learning** :robot: - Implementing machine learning models to predict credit scores.
+- **Data Engineering** :gear: - Building and maintaining data pipelines.
+- **Data Visualization** :chart_with_upwards_trend: - Creating insightful visualizations to represent credit data.
+- **SQL** :floppy_disk: - Writing efficient SQL queries to manage and manipulate databases.
+- **Python** :snake: - Using Python for data manipulation, model building, and automation.
+- **Statistics** :chart_with_downwards_trend: - Applying statistical methods to analyze credit risk.
+- **Risk Management** :shield: - Assessing and mitigating financial risks.
+- **Communication** :speech_balloon: - Effectively communicating findings to stakeholders.
+- **Problem Solving** :bulb: - Tackling complex problems with innovative solutions.
+- **Financial Modeling** :moneybag: - Developing financial models to predict creditworthiness.
+- **Reporting** :memo: - Compiling detailed reports on credit analysis and predictions.
+- **Collaboration** :handshake: - Working collaboratively with team members.
+- **Time Management** :hourglass_flowing_sand: - Efficiently managing time to meet project deadlines.
+- **Attention to Detail** :mag: - Ensuring accuracy and precision in all aspects of the project.
 
 
 ## Project Objective

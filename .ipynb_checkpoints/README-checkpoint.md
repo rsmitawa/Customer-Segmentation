@@ -13,9 +13,9 @@ This project segments bank customers based on their spending patterns and intera
 5. [Requirements](#requirements)
 6. [Setup and Installation](#setup-and-installation)
 7. [Usage](#usage)
-7. [Results and Insights](#results-and-insights)
-8. [Recommendations](#recommendations)
-9. [Contributing](#contributing)
+8. [Results and Insights](#results-and-insights)
+9. [Recommendations](#recommendations)
+10. [Contributing](#contributing)
 
 ## Skills Utilized :bulb:
 
