@@ -1,9 +1,9 @@
 ---
 
-# Bank Customer Segmentation Project
+# Segmenting Bank Customers by Spending Patterns and Interaction History
 
 ## Overview
-This project segments bank customers based on their spending patterns and interaction history. Using machine learning techniques, specifically Hierarchical Clustering Analysis (HCA) and K-Means Clustering, we identify distinct customer segments to help the bank better understand and serve its customer base.
+This project segments bank customers based on their spending patterns and interaction history. By leveraging machine learning techniques, specifically Hierarchical Clustering Analysis (HCA) and K-Means Clustering, we identify distinct customer segments to provide the bank with deeper insights into their customer base, enabling more targeted marketing and improved service delivery.
 
 ## Table of Contents
 1. [Skills Utilized](#skills-utilized)
@@ -76,7 +76,7 @@ This project requires the following Python libraries:
    ```
    jupyter notebook Bank_Customer_Segmentation.ipynb
    ```
-2. Run the cells in order to perform the analysis.
+2. Run the cells to perform the analysis.
 
 ## Results and Insights
 
@@ -116,7 +116,7 @@ Our analysis using Hierarchical Clustering Analysis (HCA) and K-Means Clustering
 Based on our analysis, we recommend the following strategies:
 
 1. **Enhance Digital Services:** 
-   - Invest in improving the online banking platform to better serve high-value customers and encourage adoption among other segments.
+   - Invest in improving the online banking platform to serve high-value customers better and encourage adoption among other segments.
    - Develop educational resources to help low-limit customers become more comfortable with digital banking.
 
 2. **Optimize In-Branch Experience:** 
